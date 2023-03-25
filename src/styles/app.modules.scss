@@ -1,11 +1,9 @@
 @import './contants.scss';
+@import './global.scss';
 .container{
     overflow-x: clip;
     position: relative;
-    color: $primary;
-    // background: $secondary-white;
-    
-
-    //kjdhiuqav 
+    // background: bg-primary;
+    height: 100vh;
     
 }
